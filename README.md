@@ -1,4 +1,3 @@
-#基于vue.js重写Cnodejs.org社区的webapp
 ###安装
 
 项目地址：（`git clone`）
